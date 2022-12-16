@@ -1,6 +1,6 @@
-Modern UI/UX React JS GPT-3 OpenAI
+<h1>Modern UI/UX React JS GPT-3 OpenAI</h1>
 
-Introduction
+<h3>Introduction</h3>
 
 React Functional components and their reusability
 React file and folder structure
