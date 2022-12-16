@@ -2,9 +2,9 @@
 
 <h3>Introduction</h3>
 
-React Functional components and their reusability
-React file and folder structure
-Fundamental CSS properties flex & grid
-Fundamentals of the CSS BEM Model
-From soft and pleasant animations to complex gradients
-Perfectly placed media queries for satisfactory responsiveness covering almost devices
+React Functional components and their reusability <br>
+React file and folder structure <br>
+Fundamental CSS properties flex & grid <br>
+Fundamentals of the CSS BEM Model <br>
+From soft and pleasant animations to complex gradients <br>
+Perfectly placed media queries for satisfactory responsiveness covering almost devices <br>
